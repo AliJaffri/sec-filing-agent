@@ -12,7 +12,7 @@ SEC_ARCHIVES = "https://www.sec.gov/Archives/edgar/data"
 # IMPORTANT:
 # Replace this with your real contact information.
 HEADERS = {
-    "User-Agent": "Academic SEC Filing Research Tool your_email@university.edu",
+    "User-Agent": "Academic SEC Filing Research Tool ali.jaffri@ndsu.edu",
     "Accept-Encoding": "gzip, deflate",
     "Host": "www.sec.gov",
 }
